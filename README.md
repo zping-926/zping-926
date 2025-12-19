@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" width="300" />
-</p>
-
-# Hi 👋 I'm WONG ZI PING
+# Hi 👋 I'm WONG ZI PING <img src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" width="50" />
 ### 🧬 Computer Science (Data Engineering) Student @ UTM
 
 ---
@@ -20,6 +16,7 @@
 - **Secondary School** | SMK Saint Elizabeth | 2019-2023
 - **Primary School** | SJK(C) Su Lai |  2013-2018
 
+<br>
 
 ### 🛠️ Skills
 <p align="left">
@@ -29,6 +26,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40"/>
 </p>
 
+<br>
 
 ## 📂 Project Portfolio
 
@@ -36,16 +34,26 @@
 |:--------|:------------|:-----------|:-----------------|:------|
 | **Moodiary Health Tracker** | Mental wellness app with AI therapy chatbot & Firebase backend | Flutter, Firebase, Dart | • 19 commits<br>• Firebase integration<br>• UI development<br>• Release preparation | [Code](https://github.com/tifflyn/moodiary_health_tracker) • [Demo](https://github.com/tifflyn/moodiary_health_tracker#demo-responsive-ai-chatbot) |
 
+<br>
 
 ## 📂 My Coursework & Assignments
 
 ---
 
-## 📩 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Here-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/wzping)
-[![Email](https://img.shields.io/badge/Email-bxyxhg26@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bxyxhg26@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_My_Work-black?style=for-the-badge&logo=github)](https://github.com/zping-926)
+## 📩 Connect With Me <p align="left"> 
+  <a href="https://www.linkedin.com/in/wzping" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
+  </a> 
+  &nbsp;&nbsp;
+  <a href="https://www.github.com/zping-926" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
+  </a> 
+  &nbsp;&nbsp;
+  <a href="mailto:bxyxhg26@gmail.com"> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/google.svg" width="32" height="32" /> 
+  </a>
+</p>
+<br>
 
----
 ### 📈 GitHub Stats
 ![Ziping's Stats](https://github-readme-stats.vercel.app/api?username=zping-926&show_icons=true&theme=radical)
