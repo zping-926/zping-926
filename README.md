@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/269S0_E9678AAAAC/coding-cat.gif" width="300" />
+  <img src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" width="300" />
 </p>
 
 # Hi 👋 I'm WONG ZI PING
