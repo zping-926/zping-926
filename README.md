@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://run-api.deno.dev/v1/github_vhs/wzping.gif?text=Wong%20Zi%20Ping%20is%20coding...&color=%23FF69B4" width="400" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR1N3Z4amZ6NWR6amF6amF6amF6amF6amF6amF6amF6amF6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/ohdY5OqIFT5Re/giphy.gif" width="300" />
 </p>
 
 # Hi 👋 I'm WONG ZI PING
@@ -20,7 +20,6 @@
 - **Secondary School** | SMK Saint Elizabeth | 2019-2023
 - **Primary School** | SJK(C) Su Lai |  2013-2018
 
----
 
 ### 🛠️ Skills
 <p align="left">
@@ -30,7 +29,6 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40"/>
 </p>
 
----
 
 ## 📂 Project Portfolio
 
@@ -38,7 +36,6 @@
 |:--------|:------------|:-----------|:-----------------|:------|
 | **Moodiary Health Tracker** | Mental wellness app with AI therapy chatbot & Firebase backend | Flutter, Firebase, Dart | • 19 commits<br>• Firebase integration<br>• UI development<br>• Release preparation | [Code](https://github.com/tifflyn/moodiary_health_tracker) • [Demo](https://github.com/tifflyn/moodiary_health_tracker#demo-responsive-ai-chatbot) |
 
----
 
 ## 📂 My Coursework & Assignments
 
