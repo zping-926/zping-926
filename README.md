@@ -8,15 +8,11 @@
 - ✉️ **Contact:** bxyxhg26@gmail.com
 - 🧠 **Current Major:** Bachelor of Computer Science (Data Engineering)
 
----
-
 ### 🎓 Education 
 - **Bachelor of Computer Science (Data Engineering)** | University of Technology Malaysia (UTM) | 2025 - Present
 - **Foundation in Physical Science** | UTM SPACE | 2024-2025
 - **Secondary School** | SMK Saint Elizabeth | 2019-2023
 - **Primary School** | SJK(C) Su Lai |  2013-2018
-
-<br>
 
 ### 🛠️ Skills
 <p align="left">
@@ -28,6 +24,8 @@
 
 <br>
 
+---
+
 ## 📂 Project Portfolio
 
 | Project | Description | Tech Stack | My Contributions | Links |
@@ -36,7 +34,7 @@
 
 <br>
 
-## 📂 My Coursework & Assignments
+## 📄 My Coursework & Assignments
 
 ---
 
