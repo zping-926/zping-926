@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR1N3Z4amZ6NWR6amF6amF6amF6amF6amF6amF6amF6amF6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/ohdY5OqIFT5Re/giphy.gif" width="300" />
+  <img src="https://media.tenor.com/269S0_E9678AAAAC/coding-cat.gif" width="300" />
 </p>
 
 # Hi 👋 I'm WONG ZI PING
