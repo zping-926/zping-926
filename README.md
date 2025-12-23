@@ -30,7 +30,7 @@
 
 | Project | Description | Tech Stack | My Contributions | Links |
 |:--------|:------------|:-----------|:-----------------|:------|
-| **Moodiary Health Tracker** | Mental wellness app with AI therapy chatbot & Firebase backend | Flutter, Firebase, Dart | • AI Setup<br>• Firebase integration<br>• UI development<br>• Release preparation |  |
+| **Moodiary Health Tracker** | Mental wellness app with AI therapy chatbot & Firebase backend | Flutter, Firebase, Dart | • AI Setup<br>• Firebase integration<br>• UI development<br>• Release preparation | https://github.com/tifflyn/moodiary_health_tracker |
 
 <br>
 
