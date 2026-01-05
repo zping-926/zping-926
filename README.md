@@ -1,5 +1,5 @@
 # Hi 👋 I'm WONG ZI PING <img src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" width="50" />
-### 🧬 Computer Science (Data Engineering) Student @ UTM
+### 💻 Computer Science (Data Engineering) Student @ UTM
 
 ---
 
