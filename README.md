@@ -7,6 +7,9 @@
 - 🌍 **Based in:** Sibu, Sarawak
 - ✉️ **Contact:** bxyxhg26@gmail.com
 - 🧠 **Current Major:** Bachelor of Computer Science (Data Engineering)
+- 🚀  I'm currently working on my [e-portfolio](https://zping-926.github.io/)
+
+<br>
 
 ### 🎓 Education 
 - **Bachelor of Computer Science (Data Engineering)** | University of Technology Malaysia (UTM) | 2025 - Present
