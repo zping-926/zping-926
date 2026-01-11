@@ -17,6 +17,25 @@
 - **Secondary School** | SMK Saint Elizabeth | 2019-2023
 - **Primary School** | SJK(C) Su Lai |  2013-2018
 
+<br>
+
+### 📎 Avtivity & Position
+- **University (UTM):**
+  - 👩‍💻 AIROST member
+  - 🌕 PT UTM 25/26 committe
+
+- **Secondary School (SMK St Elizabeth):**
+  - 📚 Vice President | SPBT 
+  - 💰 Treasurer | Guidance and Career Club
+  - ✍️ Secretary | KRS
+  - 📚 Committee | School Magazine Editorial Board
+  - 📖 Committee | Library Society
+    
+- **Primary School (SJK(C)SU LAi):**
+  - 📚 Vice President | BSMM
+
+<br>
+
 ### 🛠️ Skills
 <p align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40"/>
@@ -57,4 +76,8 @@
 <br>
 
 ### 📈 GitHub Stats
-![Ziping's Stats](https://github-readme-stats.vercel.app/api?username=zping-926&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zping-926&theme=radical&hide_border=true" alt="GitHub Streak" />
+   
+   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zping-926&theme=github)
+</p>
