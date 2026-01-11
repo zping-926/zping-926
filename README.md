@@ -78,6 +78,5 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=zping-926&theme=radical&hide_border=true" alt="GitHub Streak" />
-   
-   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zping-926&theme=github)
-</p>
+ 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zping-926&theme=github" width="65%" alt="GitHub Activity Graph">
